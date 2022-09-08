@@ -1,0 +1,15 @@
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\CSharp_Delegates.exe
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\CSharp_Delegates.deps.json
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\CSharp_Delegates.runtimeconfig.json
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\CSharp_Delegates.dll
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\ref\CSharp_Delegates.dll
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\bin\Debug\net6.0\CSharp_Delegates.pdb
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.csproj.AssemblyReference.cache
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.AssemblyInfoInputs.cache
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.AssemblyInfo.cs
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.dll
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\ref\CSharp_Delegates.dll
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.pdb
+C:\Users\12537\source\repos\csharp\CSharp_Delegates\obj\Debug\net6.0\CSharp_Delegates.genruntimeconfig.cache
